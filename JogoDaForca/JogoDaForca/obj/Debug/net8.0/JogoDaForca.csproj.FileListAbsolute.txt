@@ -1,0 +1,14 @@
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\bin\Debug\net8.0\JogoDaForca.exe
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\bin\Debug\net8.0\JogoDaForca.deps.json
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\bin\Debug\net8.0\JogoDaForca.runtimeconfig.json
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\bin\Debug\net8.0\JogoDaForca.dll
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\bin\Debug\net8.0\JogoDaForca.pdb
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.AssemblyInfoInputs.cache
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.AssemblyInfo.cs
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.csproj.CoreCompileInputs.cache
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.dll
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\obj\Debug\net8.0\refint\JogoDaForca.dll
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.pdb
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.genruntimeconfig.cache
+D:\Projetos aleatórios\JogoDaForca\JogoDaForca\JogoDaForca\obj\Debug\net8.0\ref\JogoDaForca.dll
